@@ -244,6 +244,7 @@
     <string name="SAVE">SAVE</string>
     <string name="NEXT">NEXT</string>
     <string name="SKIP">SKIP</string>
+    <string name="sss">sss</string>
     <string name="title_activity_main">Shmoukh AlBadow</string>
     <string name="nav_header_title">Android Studio</string>
     <string name="nav_header_subtitle">android.studio@android.com</string>
